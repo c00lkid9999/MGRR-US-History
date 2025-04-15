@@ -1,0 +1,40 @@
+/* Setup and basic styling */
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #6494AA;
+    padding: 0px;
+    margin: 0px
+}
+h1 {
+    background: -webkit-linear-gradient(#7d2591, #4C1A57);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Special Gothic Expanded One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+    text-align: center;
+}
+h2 {
+    color: #10661d;
+    font-family: "Lato";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px
+}
+h3 {
+    color: #10661d;
+    font-family: "Lato";
+    font-weight: 700;
+    font-style: italic;
+    font-size: 18px;
+}
+p {
+    color: #2A2D43;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+}

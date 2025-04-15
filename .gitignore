@@ -1,0 +1,2 @@
+# This .DS_Store file has been driving me crazy for so long and I'm so glad I figured out what a .gitignore is
+.DS_Store
