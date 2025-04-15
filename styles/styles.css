@@ -9,8 +9,8 @@ body {
 }
 h1 {
     background: -webkit-linear-gradient(#7d2591, #4C1A57);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
     font-family: "Special Gothic Expanded One", sans-serif;
     font-weight: 400;
     font-style: normal;
