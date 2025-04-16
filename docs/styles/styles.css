@@ -3,12 +3,12 @@
     box-sizing: border-box;
 }
 body {
-    background-color: #6494AA;
+    background-color: #69b1d3;
     padding: 0px;
     margin: 0px
 }
 h1 {
-    background: -webkit-linear-gradient(#7d2591, #4C1A57);
+    background-image: linear-gradient(#7d2591, #4C1A57);
     background-clip: text;
     color: transparent;
     font-family: "Special Gothic Expanded One", sans-serif;
@@ -41,4 +41,13 @@ p {
     font-size: 16px;
     font-style: normal;
     padding: 10px;
+}
+.top-banner {
+    background-color: rgb(200, 227, 251);
+    border-radius: 20px;
+    margin: 20px;
+    box-shadow: #395563 10px -10px 6px;
+}
+.header {
+    background-image: linear-gradient(#3b6478, #69b1d3)
 }
