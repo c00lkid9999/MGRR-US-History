@@ -73,3 +73,26 @@ a {
     border-radius: 20px;
     box-shadow: #395563 10px -10px 6px;
   }
+  .img-gallery {
+    background-color: #395563;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 20px;
+  }
+  /* might not actually use this one */
+  .img-gallery h3 {
+    color:#69b1d3;
+  }
+  .img-gallery img {
+    background-color: #69b1d3;
+  }
+  .infobox {
+    background-color: #3b6478;
+    border: 10px solid #2A2D43;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  .infobox a {
+    color:#69b1d3
+  }
