@@ -72,6 +72,10 @@ a {
     margin: 10px;
     border-radius: 20px;
     box-shadow: #395563 10px -10px 6px;
+    text-decoration: none;
+  }
+  .flex-item a {
+    text-decoration: none;
   }
   .img-gallery {
     background-color: #395563;
