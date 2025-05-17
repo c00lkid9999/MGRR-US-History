@@ -50,6 +50,11 @@ a {
     font-style: normal;
     padding: 10px;
 }
+img {
+  display: block;
+  text-align: center;
+  margin: auto
+}
 .top-banner {
     background-color: rgb(200, 227, 251);
     border-radius: 20px;
